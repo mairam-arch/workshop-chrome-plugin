@@ -1,0 +1,19 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+.output/
+.wxt/
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Конфигурационные файлы
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
