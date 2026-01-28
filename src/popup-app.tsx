@@ -25,7 +25,3 @@ function init() {
 
 // Запускаем инициализацию при загрузке
 document.addEventListener('DOMContentLoaded', init);
-
-export default {
-  mount: init,
-};
