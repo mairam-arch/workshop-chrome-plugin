@@ -42,6 +42,10 @@
     "wxt": "^0.20.13"
   },
   "dependencies": {
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "webextension-polyfill": "^0.12.0"
   }
 }
